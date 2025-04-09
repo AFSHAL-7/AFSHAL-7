@@ -1,4 +1,4 @@
-<h1 align="center">Hi Buddies👋, I'm I am AFSHAL</h1>
+<h1 align="center">Hi Buddies👋, I'm  AFSHAL</h1>
 <h3 align="center">I am Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afshal-7&label=Profile%20views&color=0e75b6&style=flat" alt="afshal-7" /> </p>
